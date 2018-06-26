@@ -1,1 +1,2 @@
 # Online Advertising Click-Through Rate prediction
+Run the functions.R files which contains function for FTRL algorithm, log loss, and various performance metrics calculated to evaluate performance of various models
